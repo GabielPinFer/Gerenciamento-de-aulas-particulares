@@ -25,7 +25,7 @@ Facilitar a organização e o gerenciamento de alunos/aulas de forma digital, co
 
 ## Repositório do Sistema
 
-- Link:
+- Link: https://github.com/GabielPinFer/Gerenciamento-de-aulas-particulares.git
 
 > Projeto desenvolvido para fins de aprendizado e melhora profissional.
 
