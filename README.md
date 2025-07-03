@@ -20,8 +20,16 @@ Facilitar a organização e o gerenciamento de alunos/aulas de forma digital, co
 - Gerenciar os professores cadastrados
 - Gerenciar os alunos de cada professor cadastrado no sistema
 
-## Desenvolvedor
+## Desenvolvimento
+
+### Responsável
 - Gabriel Pinheiro Ferrari
+
+### Tecnologias
+- Linguagem: Java
+- Paradigma: Orientada a Objeto
+- Interface Gráfica: swing
+- IDE: NetBeans 25
 
 ## Repositório do Sistema
 
